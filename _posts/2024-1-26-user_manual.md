@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "用户手册"
-date:   2024-1-26
+date:   2025-7-27
 tags: [notice]
 comments: true
-author: pianfan
+author: pianfan & Jamie
 ---
 
 您是第一次来到我的博客吗？来瞧瞧这篇博主为读者们精心准备的无比简短的《用户手册》吧！预祝您在我的博客里收获一个良好的阅读体验！
