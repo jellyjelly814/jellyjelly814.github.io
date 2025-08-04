@@ -1,5 +1,5 @@
-name: "JamieLiu67's blog"
-description: "Jamie的个人技术博客"
+name: "Jelly's Growth Jam Jar"
+description: "Jelly的成长果酱瓶"
 
 avatar: https://JamieLiu67.github.io/images/avatar.jpg
 favicon: https://JamieLiu67.github.io/images/favicon.ico
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: Jamie.67@qq.com
+  email: jiayi_su127@163.com
   facebook:
-  github: Jamie.Liu67
+  github: jellyjelly814
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2025 Jamie
+footer-text: Copyright (c) 2025 Jelly
 
-url: https://JamieLiu67.github.io
+url: https://jellyjelly814.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
